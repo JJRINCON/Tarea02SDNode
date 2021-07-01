@@ -1,0 +1,23 @@
+.mainForm{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+    background: #EAFAFE;
+    border-radius: 10%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.consultBtn{
+    background-color: #20B7DE;
+    color: white;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.backBtn{
+    background-color: black;
+}
